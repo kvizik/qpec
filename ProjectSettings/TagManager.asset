@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DropZone
+  - Apple
+  - Orange
+  - RedBall
+  - Pirog
+  - Tort
+  - Kasha
+  - Food
+  - Circle
+  - Square
+  - Cart
+  - PlayerMoney
+  - CashMoney
+  - Cart2
+  - CashierZone
+  - MoneyZone
+  - Pizza
+  - Borsch
+  - Omelet
+  - Kotlets
+  - Olivier
+  - Schi
+  - Solyanka
+  - Ragu
+  - ------
+  - Svekla
+  - Suhari
+  - Vanilin
+  - Kolbasa1
+  - Goroh
+  - Droji
+  - Kaban
+  - Kapusta
+  - Kartoha
+  - Kolbasa2
+  - Limon
+  - Chooser
+  - Chesnok
+  - Luk
+  - Maslo
+  - MasloRast
+  - Mayonez
+  - Moloko
+  - Morkov
+  - Muka
+  - Myaso
+  - Ogurci
+  - Olivki
+  - OlivkOil
+  - PerecOne
+  - PerecTwo
+  - Petrushka
+  - Pomidor
+  - Priprava
+  - Sahar
+  - Soda
+  - Sol
+  - Syr
+  - TomatPasta
+  - Yaica
+  - MoneySlotScript
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Lower
+    uniqueID: 3271107293
+    locked: 0
+  - name: Upper
+    uniqueID: 2483212643
+    locked: 0
